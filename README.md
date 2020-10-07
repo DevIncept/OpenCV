@@ -5,9 +5,9 @@
 
 [Part1: Numpy notebook](Part1.ipynb)
 
-Part2: Revisiting Pandas
+[Part2: Revisiting Pandas](part2.md)
 
-Part2: Pandas notebook
+[Part2: Pandas notebook](part2.ipynb)
 
 Part3: Mini Project-Numpy&Pandas
 
