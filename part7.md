@@ -86,7 +86,7 @@ Greyscaling is the process of converting an image from  format RGB, CMYK, HSV, e
 Translation is the process of shifiting image from one location to another location.<br>
 this can be done using transformation matrix
 
-<img src = "trans.jpg" height = 60 width = 100>
+<img src = "https://github.com/Learn-Write-Repeat/Contribution-program/blob/master/intern-basics/Introduction%20to%20OpenCV/trans.jpg" height = 60 width = 100>
 
 the tx and ty elements of the matrix shows the shifting of image to x-direction and y-direction respectively.
 
