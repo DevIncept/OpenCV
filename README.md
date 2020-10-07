@@ -11,13 +11,13 @@
 
 [Part3: Experimenting-Numpy&Pandas](Part%20-%203)
 
-Part4: Competetion-Numpy&Pandas
+Part4: Competetion-Numpy&Pandas - Will be held on Sunday
 
-Part5: Introduction to Computer Vision
+[Part5: Introduction to Computer Vision](part5.md)
 
-Part6: Introduction to OpenCV and installation
+[Part6: Introduction to OpenCV and installation](part6.md)
 
-Part7: Basic functions in OpenCV
+[Part7: Basic functions in OpenCV](part7.md)
 
 Grayscaling
 Image Translations
@@ -26,8 +26,8 @@ Scaling,cropping and Re-sizing
 Arithmetic and bitwise Operations.
 Sharpening, Thresholding, Dilation
 Edge detection
-Part7: Basic functions in OpenCV Notebook
+[Part7: Basic functions in OpenCV Notebook](part7.ipynb)
 
-Part8: Project: Live sketching using webcame
+[Part8: Project: Live sketching using webcame](part8.md)
 
 Part9: Project submission
