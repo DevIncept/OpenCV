@@ -1,7 +1,7 @@
 # OpenCV-Module-1
 
 
-[Part1: Revisiting Numpy](part1.md)
+[Part1: Revisiting Numpy](Part1.md)
 
 Part1: Numpy notebook
 
