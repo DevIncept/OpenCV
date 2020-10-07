@@ -3,7 +3,7 @@
 
 [Part1: Revisiting Numpy](Part1.md)
 
-Part1: Numpy notebook
+[Part1: Numpy notebook](Part1.ipynb)
 
 Part2: Revisiting Pandas
 
