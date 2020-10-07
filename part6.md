@@ -30,12 +30,12 @@
     
     - **Execute** the following commands:
     
-'''
+```
         pip install opencv-python
         
         pip install opencv-contrib-python
 
-'''   
+```   
 
      
     **A snapshot of the installation is attached below:**
