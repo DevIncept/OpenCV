@@ -11,7 +11,7 @@
 
 [Part3: Experimenting-Numpy&Pandas](Part%20-%203)
 
-Part4: Competetion-Numpy&Pandas - Will be held on Sunday
+Part4: Competetion-Numpy&Pandas - Will be held on saturday-Sunday
 
 [Part5: Introduction to Computer Vision](part5.md)
 
