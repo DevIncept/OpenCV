@@ -26,6 +26,7 @@ Scaling,cropping and Re-sizing
 Arithmetic and bitwise Operations.
 Sharpening, Thresholding, Dilation
 Edge detection
+
 [Part7: Basic functions in OpenCV Notebook](part7.ipynb)
 
 [Part8: Project: Live sketching using webcame](part8.md)
