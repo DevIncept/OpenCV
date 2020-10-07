@@ -9,7 +9,7 @@
 
 [Part2: Pandas notebook](part2.ipynb)
 
-Part3: Mini Project-Numpy&Pandas
+[Part3: Experimenting-Numpy&Pandas](Part%20-%203)
 
 Part4: Competetion-Numpy&Pandas
 
