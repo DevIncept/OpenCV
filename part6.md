@@ -30,10 +30,14 @@
     
     - **Execute** the following commands:
     
+'''
         pip install opencv-python
         
         pip install opencv-contrib-python
-        
+
+'''   
+
+     
     **A snapshot of the installation is attached below:**
     
     ![Image_of_opencv_installation](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/extras/anaconda_prompt_opencv_installation.png)
