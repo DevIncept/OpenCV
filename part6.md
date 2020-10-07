@@ -34,17 +34,17 @@
         pip install opencv-python
         
         pip install opencv-contrib-python
-
 ```   
 
      
-    **A snapshot of the installation is attached below:**
     
-    ![Image_of_opencv_installation](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/extras/anaconda_prompt_opencv_installation.png)
+**A snapshot of the installation is attached below:**
+    
+![Image_of_opencv_installation](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/extras/anaconda_prompt_opencv_installation.png)
     
     
-    After the installation, for further projects, OpenCV can be imported on the IDE using the following statement:
-        import cv2
-    This means, in any python script that you use OpenCV for image and video processing, it is mandatory to include the above statement in order to import the OpenCV library and use it's functions.
+After the installation, for further projects, OpenCV can be imported on the IDE using the following statement:
+        `import cv2`
+This means, in any python script that you use OpenCV for image and video processing, it is mandatory to include the above statement in order to import the OpenCV library and use it's functions.
 
 
