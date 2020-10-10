@@ -14,7 +14,8 @@ The main aim of this training program is to provide you a path you have to work 
 
 [Part3: Experimenting-Numpy&Pandas](Part%20-%203)
 
-Part4: Competetion-Numpy&Pandas - Will be held on saturday-Sunday
+#### Part4: Competetion-Numpy&Pandas - Will be held on saturday-Sunday
+     follow [this issue](https://github.com/DevIncept/OpenCV-Module-1/issues/1)
 
 [Part5: Introduction to Computer Vision](part5.md)
 
