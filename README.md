@@ -14,7 +14,7 @@ The main aim of this training program is to provide you a path you have to work 
 
 [Part3: Experimenting-Numpy&Pandas](Part%20-%203)
 
-#### Part4: Competetion-Numpy&Pandas - Will be held on saturday-Sunday : Link will be shared on Slack.
+#### Part4: Competition-Numpy&Pandas - Will be held on saturday-Sunday : Link will be shared on Slack.
 > This is **not mandatory** for completion of course, but will count for merit. 
      
 
