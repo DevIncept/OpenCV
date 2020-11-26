@@ -2,7 +2,7 @@
 
 This training program aims to give you a direction and how to use all the resources which are available for free online. In this module, we have tried to create some data which is from different places (we tried to get the best resources which are already available and also created ours which was not available anywhere in the form we wanted) and is curated in a form which will make you aware about your course.
 
-The main aim of this training program is to provide you a path you have to work on, and the following are the topics for this module. You can use other resources as well to understand the topics which you can easily find by searching on google. There will be a competition either on **Hackerrank or Kaggle** on the weekends. And the last project you'll have to submit fo which form will be shared on **Slack Workspace**.
+The main aim of this training program is to provide you a path you have to work on, and the following are the topics for this module. You can use other resources as well to understand the topics which you can easily find by searching on google. There will be a competition either on **Hackerrank or Kaggle** on the weekends. And the last project/quizz you'll have to submit for which form will be shared on **Slack Workspace**.
 
 [Part1: Revisiting Numpy](Part1.md)
 
@@ -14,8 +14,8 @@ The main aim of this training program is to provide you a path you have to work 
 
 [Part3: Experimenting-Numpy&Pandas](Part%20-%203)
 
-#### Part4: Competetion-Numpy&Pandas - Will be held on saturday-Sunday : follow [this issue](https://github.com/DevIncept/OpenCV-Module-1/issues/1)
-
+#### Part4: Competetion-Numpy&Pandas - Will be held on saturday-Sunday : Link will be shared on Slack.
+> This is **not mandatory** for completion of course, but will count for merit. 
      
 
 [Part5: Introduction to Computer Vision](part5.md)
@@ -36,4 +36,4 @@ Edge detection
 
 [Part8: Project: Live sketching using webcame](part8.md)
 
-Part9: Project submission
+Part9: **Quizz** **`compulsory for completion`** *(link will be shared on Slack on Monday)* 
