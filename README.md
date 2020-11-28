@@ -32,7 +32,7 @@ Arithmetic and bitwise Operations.
 Sharpening, Thresholding, Dilation
 Edge detection
 
-[Part7: Basic functions in OpenCV Notebook](part7.ipynb)
+[Part7: Basic functions in OpenCV Notebook](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/Chirag_OpenCV_BasicFunctionsInOpenCV.ipynb)
 
 [Part8: Project: Live sketching using webcame](part8.md)
 
