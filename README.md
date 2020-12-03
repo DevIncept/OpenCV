@@ -34,6 +34,6 @@ Edge detection
 
 [Part7: Basic functions in OpenCV Notebook](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/Chirag_OpenCV_BasicFunctionsInOpenCV.ipynb)
 
-[Part8: Project: Live sketching using webcame](part8.md)
+[Part8: Project: Live sketching using webcame](https://github.com/Learn-Write-Repeat/Contribution-program/blob/master/intern-basics/Part-5%20Simplesketchapp.md)
 
 Part9: **Quizz** **`compulsory for completion`** *(link will be shared on Slack on Monday)* 
