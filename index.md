@@ -12,7 +12,7 @@ The main aim of this training program is to provide you a path you have to work 
 
 [Part2: Pandas notebook](part2.ipynb)
 
-[Part3: Experimenting-Numpy&Pandas](Part%20-%203)
+<a href="https://github.com/DevIncept/OpenCV/tree/master/Part%20-%203" target="_blank">Part3: Experimenting-Numpy&Pandas</a>
 
 #### Part4: Competition-Numpy&Pandas - Will be held on saturday-Sunday : Link will be shared on Slack.
 > This is **not mandatory** for completion of course, but will count for merit. 
