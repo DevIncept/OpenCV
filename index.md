@@ -4,6 +4,8 @@ This training program aims to give you a direction and how to use all the resour
 
 The main aim of this training program is to provide you a path you have to work on, and the following are the topics for this module. You can use other resources as well to understand the topics which you can easily find by searching on google. There will be a competition either on **Hackerrank or Kaggle** on the weekends. And the last project/quizz you'll have to submit for which form will be shared on **Slack Workspace**.
 
+### <a href="https://www.youtube.com/watch?v=Q-iC4VaW8ZA" target="_blank">Starting with Anaconda 3<a>
+
 [Part1: Revisiting Numpy](Part1.md)
 
 [Part1: Numpy notebook](Part1.ipynb)
