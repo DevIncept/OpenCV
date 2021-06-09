@@ -8,7 +8,7 @@ The main aim of this training program is to provide you a path you have to work 
 ### * <a href="https://www.youtube.com/watch?v=O8g_6sVHwEc" target="_blank">Installing OpenCV<a>
 
 
-     [Part1: Revisiting Numpy](Part1.md)
+[Part1: Revisiting Numpy](Part1.md)
 
 [Part1: Numpy notebook](Part1.ipynb)
 
