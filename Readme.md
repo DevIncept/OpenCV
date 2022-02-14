@@ -10,9 +10,15 @@ The main aim of this training program is to provide you a path you have to work 
 
 [Part1: Revisiting Numpy](Part1.md)
 
+[Video1: Numpy](https://youtu.be/2FlT8lIT6MI)
+     
+[Video2: Numpy](https://youtu.be/Lbmryq2Tcrw)
+     
 [Part1: Numpy notebook](Part1.ipynb)
 
 [Part2: Revisiting Pandas](part2.md)
+     
+[Video: Pandas](https://youtu.be/fqRUEiV_Nqk)
 
 [Part2: Pandas notebook](part2.ipynb)
 
@@ -23,6 +29,8 @@ The main aim of this training program is to provide you a path you have to work 
      
 
 [Part5: Introduction to Computer Vision](part5.md)
+ 
+[Video: Introduction to Computer Vision](https://youtu.be/NZMwRXlET5c)
 
 [Part6: Introduction to OpenCV and installation](part6.md)
 
