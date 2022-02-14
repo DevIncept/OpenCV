@@ -40,4 +40,4 @@ The main aim of this training program is to provide you a path you have to work 
 
 [Part8: Project: Live sketching using webcame](https://github.com/Learn-Write-Repeat/Contribution-program/blob/master/intern-basics/Part-5%20Simplesketchapp.md)
 
-Part9: **Quizz** **`compulsory for completion`** *(link will be shared on Slack on Monday)* 
+Part9: **Quizz** **`compulsory for completion`** *(link will be shared on Slack on Discord)* 
