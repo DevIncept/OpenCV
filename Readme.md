@@ -10,19 +10,27 @@ The main aim of this training program is to provide you a path you have to work 
 
 [Part1: Revisiting Numpy](Part1.md)
 
+[Video1: Numpy](https://youtu.be/2FlT8lIT6MI)
+     
+[Video2: Numpy](https://youtu.be/Lbmryq2Tcrw)
+     
 [Part1: Numpy notebook](Part1.ipynb)
 
 [Part2: Revisiting Pandas](part2.md)
+     
+[Video: Pandas](https://youtu.be/fqRUEiV_Nqk)
 
 [Part2: Pandas notebook](part2.ipynb)
 
 <a href="https://github.com/DevIncept/OpenCV/tree/master/Part%20-%203" target="_blank">Part3: Experimenting-Numpy&Pandas</a>
 
-#### Part4: Competition-Numpy&Pandas - Will be held on saturday-Sunday : Link will be shared on Slack.
+#### Part4: Competition-Numpy&Pandas - Will be held on saturday-Sunday : Link will be shared on Discord.
 > This is **not mandatory** for completion of course, but will count for merit. 
      
 
 [Part5: Introduction to Computer Vision](part5.md)
+ 
+[Video: Introduction to Computer Vision](https://youtu.be/NZMwRXlET5c)
 
 [Part6: Introduction to OpenCV and installation](part6.md)
 
@@ -40,4 +48,4 @@ The main aim of this training program is to provide you a path you have to work 
 
 [Part8: Project: Live sketching using webcame](https://github.com/Learn-Write-Repeat/Contribution-program/blob/master/intern-basics/Part-5%20Simplesketchapp.md)
 
-Part9: **Quizz** **`compulsory for completion`** *(link will be shared on Slack on Monday)* 
+Part9: **Quizz** **`compulsory for completion`** *(link will be shared on Slack on Discord)* 
